@@ -1,17 +1,17 @@
 # Interledger XRP Payment Channel Plugin
 
-[![NPM Package](https://img.shields.io/npm/v/@kgcdream2019/ilp-plugin-xrp-paychan.svg?style=flat-square&logo=npm)](https://npmjs.org/package/@kgcdream2019/ilp-plugin-xrp-paychan)
-[![CircleCI](https://img.shields.io/circleci/project/github/kgcdream2019/ilp-plugin-xrp-paychan/master.svg?style=flat-square&logo=circleci)](https://circleci.com/gh/kgcdream2019/ilp-plugin-xrp-paychan)
-[![Codecov](https://img.shields.io/codecov/c/github/kgcdream2019/ilp-plugin-xrp-paychan.svg?style=flat-square&logo=codecov)](https://codecov.io/gh/kgcdream2019/ilp-plugin-xrp-paychan)
+[![NPM Package](https://img.shields.io/npm/v/@xmrd-labs/ilp-plugin-xrp-paychan.svg?style=flat-square&logo=npm)](https://npmjs.org/package/@xmrd-labs/ilp-plugin-xrp-paychan)
+[![CircleCI](https://img.shields.io/circleci/project/github/xmrd-labs/ilp-plugin-xrp-paychan/master.svg?style=flat-square&logo=circleci)](https://circleci.com/gh/xmrd-labs/ilp-plugin-xrp-paychan)
+[![Codecov](https://img.shields.io/codecov/c/github/xmrd-labs/ilp-plugin-xrp-paychan.svg?style=flat-square&logo=codecov)](https://codecov.io/gh/xmrd-labs/ilp-plugin-xrp-paychan)
 [![Prettier](https://img.shields.io/badge/code_style-prettier-brightgreen.svg?style=flat-square)](https://prettier.io/)
-[![License](https://img.shields.io/npm/l/@kgcdream2019/ilp-plugin-xrp-paychan.svg?style=flat-square)](https://github.com/kgcdream2019/ilp-plugin-xrp-paychan/blob/master/LICENSE)
+[![License](https://img.shields.io/npm/l/@xmrd-labs/ilp-plugin-xrp-paychan.svg?style=flat-square)](https://github.com/xmrd-labs/ilp-plugin-xrp-paychan/blob/master/LICENSE)
 
 🚨 **Expect breaking changes while this plugin is in beta.**
 
 ## Install
 
 ```bash
-npm i @kgcdream2019/ilp-plugin-xrp-paychan
+npm i @xmrd-labs/ilp-plugin-xrp-paychan
 ```
 
 Node.js 10+ is recommended.
