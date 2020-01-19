@@ -1,4 +1,4 @@
-import { convert, xrp, drop } from '@kava-labs/crypto-rate-utils'
+import { convert, xrp, drop } from '@kgcdream2019/crypto-rate-utils'
 import BigNumber from 'bignumber.js'
 import { registerProtocolNames } from 'btp-packet'
 import debug from 'debug'

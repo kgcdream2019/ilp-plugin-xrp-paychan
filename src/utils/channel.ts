@@ -1,4 +1,4 @@
-import { convert, drop, xrp } from '@kava-labs/crypto-rate-utils'
+import { convert, drop, xrp } from '@kgcdream2019/crypto-rate-utils'
 import BigNumber from 'bignumber.js'
 import { createHash } from 'crypto'
 import createLogger from 'ilp-logger'

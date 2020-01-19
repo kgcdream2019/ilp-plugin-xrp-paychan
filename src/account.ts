@@ -1,4 +1,4 @@
-import { AssetUnit, convert, drop, xrp } from '@kava-labs/crypto-rate-utils'
+import { AssetUnit, convert, drop, xrp } from '@kgcdream2019/crypto-rate-utils'
 import BigNumber from 'bignumber.js'
 import {
   MIME_APPLICATION_JSON,

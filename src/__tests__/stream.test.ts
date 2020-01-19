@@ -3,7 +3,7 @@ import XrpPlugin from '..'
 import BigNumber from 'bignumber.js'
 import test from 'ava'
 import createLogger from 'ilp-logger'
-import { convert, xrp, drop } from '@kava-labs/crypto-rate-utils'
+import { convert, xrp, drop } from '@kgcdream2019/crypto-rate-utils'
 
 test('money can be sent between two peers', async t => {
   const port = await getPort()

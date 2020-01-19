@@ -1,7 +1,7 @@
 import getPort from 'get-port'
 import XrpPlugin from '..'
 import test from 'ava'
-import { convert, xrp, drop } from '@kava-labs/crypto-rate-utils'
+import { convert, xrp, drop } from '@kgcdream2019/crypto-rate-utils'
 import { RippleAPI } from 'ripple-lib'
 import { MemoryStore } from '../utils/store'
 
