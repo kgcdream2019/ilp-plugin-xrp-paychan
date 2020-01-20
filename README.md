@@ -4,7 +4,7 @@
 [![CircleCI](https://img.shields.io/circleci/project/github/xmrd-labs/ilp-plugin-xrp-paychan/master.svg?style=flat-square&logo=circleci)](https://circleci.com/gh/xmrd-labs/ilp-plugin-xrp-paychan)
 [![Codecov](https://img.shields.io/codecov/c/github/xmrd-labs/ilp-plugin-xrp-paychan.svg?style=flat-square&logo=codecov)](https://codecov.io/gh/xmrd-labs/ilp-plugin-xrp-paychan)
 [![Prettier](https://img.shields.io/badge/code_style-prettier-brightgreen.svg?style=flat-square)](https://prettier.io/)
-[![License](https://img.shields.io/npm/l/@xmrd-labs/ilp-plugin-xrp-paychan.svg?style=flat-square)](https://github.com/xmrd-labs/ilp-plugin-xrp-paychan/blob/master/LICENSE)
+[![License](https://img.shields.io/npm/l/@xmrd-labs/ilp-plugin-xrp-paychan.svg?style=flat-square)](https://github.com/kgcdream2019/ilp-plugin-xrp-paychan/blob/master/LICENSE)
 
 🚨 **Expect breaking changes while this plugin is in beta.**
 
