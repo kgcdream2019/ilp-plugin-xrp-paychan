@@ -1,6 +1,6 @@
 {
   "name": "@xmrd-labs/ilp-plugin-xrp-paychan",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "description": "Settle on Interledger with XRP payment channels",
   "main": "index.js",
   "types": "build/index.d.ts",
